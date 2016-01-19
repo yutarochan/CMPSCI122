@@ -1,4 +1,4 @@
-# CMPSCI122
+# CMPSCI 122
 Repository for Penn State's CMPSCI 122, Intermediate Programming course.
 
 ## Academic Integrity Policy
