@@ -1,5 +1,7 @@
-# CMPSCI 122
-Repository for Penn State's CMPSCI 122, Intermediate Programming course.
+# CMPSCI 122 DPQ
+Repository for all the Daily Practice Questions with attempted solution and instructor feedback.
+
+Does not guarantee for the answers to be correct, but attempts to organize answers and ensures the quality of the responses are good enough. Make pull request to catch any bugs, errors or mistakes that I may have made.
 
 ## Academic Integrity Policy
 In accordance to Penn State's academic integrity policy:
